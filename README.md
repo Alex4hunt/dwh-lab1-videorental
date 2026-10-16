@@ -8,8 +8,8 @@
 
 ## Файлы
 - `lab1_videorental_3nf.sql` - SQL-код создания БД, тестовые данные и проверочный запрос
-- `schema.png` - даталогическая модель (схема БД)
-- `result.png` - результат проверочного запроса
+- `schema.jpg` - даталогическая модель (схема БД)
+- `result.jpg` - результат проверочного запроса
 
 ## Таблицы (12)
 genre, media_type, copy_status, job_position, payment_method, movie, copy, customer, employee, rental, rental_item, payment
